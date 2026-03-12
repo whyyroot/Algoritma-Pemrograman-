@@ -6,7 +6,8 @@ Anggota :
 - Andi Ramli Hidayat (312510385)
 - 
 
-Mata Kuliah : Algoritma Pemrograman  
+Kelas : I253D / Semester 2.  
+Mata Kuliah : Algoritma Pemrograman.  
 Dosen : Wahyu Hadikristanto, S.Kom., M.Kom.
 
 ---
