@@ -1,15 +1,19 @@
-# Algoritma Pemrograman
-Tugas kelompok 8 Algoritma pemrograman semester 2
+# Algoritma Pemrograman Kelompok 8
+Kami dari kelompok 8 ingin memberikan sedikit penjelasan program yang kami kerjakan, adapun program yang kami kerjakan sudah ditentukan yaitu bangun ruang,array 1 dimensi/larik dan array 2 dimensi/larik. Untuk lebih jelas dalam programnya silahkan klik dibawah.
 
-Anggota kelompok :
+Anggota :
 - Irvan Wahyudin (312510359)
 - Andi Ramli Hidayat (312510385)
 - 
 
+Mata Kuliah : Algoritma Pemrograman 
 Dosen : Wahyu Hadikristanto, S.Kom., M.Kom.
 
 ---
 
+## Program 
 1. [Bangun Ruang]()
 2. [Array 1 Dimensi/larik]()
 3. [Array 2 Dimensi/larik]()
+
+Repositori ini collab dengan anggota yang disebutkan.
