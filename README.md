@@ -13,8 +13,8 @@ Dosen : Wahyu Hadikristanto, S.Kom., M.Kom.
 ---
 
 ### Detail Program. 
-1. [Bangun Ruang](https://github.com/irvanwahyudin01/Algoritma-Pemrograman-/tree/main/Bangun%20Ruang)
-2. [Array 1 Dimensi/larik](https://github.com/irvanwahyudin01/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik)
-3. [Array 2 Dimensi/larik](https://github.com/irvanwahyudin01/Algoritma-Pemrograman-/tree/main/Array%202%20Dimensi%20atau%20larik)
+1. [Bangun Ruang](https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Bangun%20Ruang)
+2. [Array 1 Dimensi/larik](https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik)
+3. [Array 2 Dimensi/larik](https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%202%20Dimensi%20atau%20larik)
 
-Repositori ini collab dengan anggota yang disebutkan.
+Repositori ini collab dengan anggota yang disebutkan, jadi semua anggota berkontribusi dalam project tugas ini.
