@@ -93,29 +93,5 @@ Digunakan untuk menampilkan output ke layar.
 Program ini dibuat menggunakan bahasa Java untuk mengimplementasikan konsep **Array 2 Dimensi (Matriks)**.  
 Program akan meminta pengguna memasukkan nilai ke dalam matriks berukuran **3x3**, kemudian program akan menampilkan matriks tersebut serta menghitung jumlah seluruh elemen matriks.
 
-## Dokumentasi Program
-
-Contoh saat program dijalankan:
-
-```
-PROGRAM ARRAY 2 DIMENSI (MATRIKS 3x3)
-
-Masukkan nilai [0][0] : 1
-Masukkan nilai [0][1] : 2
-Masukkan nilai [0][2] : 3
-Masukkan nilai [1][0] : 4
-Masukkan nilai [1][1] : 5
-Masukkan nilai [1][2] : 6
-Masukkan nilai [2][0] : 7
-Masukkan nilai [2][1] : 8
-Masukkan nilai [2][2] : 9
-
-Hasil Matriks:
-1 2 3
-4 5 6
-7 8 9
-
-Jumlah semua elemen matriks = 45
-```
 
 Program berhasil menampilkan matriks dan menghitung jumlah seluruh elemen matriks.
