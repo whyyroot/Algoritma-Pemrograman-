@@ -121,5 +121,5 @@ System.out.printf("Luas Permukaan: %.2f\n", luas);
 4. Menampilkan hasil dengan Formatting.
 
 ## Dokumentasi Program
-![Alt Text](path/to/image.png)
+<img src="img/RuangKubus1.png" width="33%"> <img src="img/RuangKubus2.png" width="33%"> <img src="img/RuangKubus3.png" width="33%">
 
