@@ -10,6 +10,8 @@ Program ini merupakan implementasi Array 2 Dimensi (Matriks) menggunakan bahasa 
 
 ## Bahasa
 Java
+# Program Array 2 Dimensi (Matriks)
+
 ## Program Code
 
 ```java
@@ -55,7 +57,64 @@ public class Array2Dimensi {
 
 ## Penjelasan Code
 
-import java.util.Scanner 
-Digunakan untuk membaca input dari keyboard menggunakan Scanner.
-public class Array2Dimensi
+### import java.util.Scanner
+Digunakan untuk memanggil class Scanner agar program bisa membaca input dari keyboard.
+
+### public class Array2Dimensi
 Merupakan class utama dari program Java.
+
+### public static void main(String[] args)
+Merupakan method utama yang akan dijalankan pertama kali saat program dijalankan.
+
+### Scanner input = new Scanner(System.in)
+Digunakan untuk membuat objek Scanner yang berfungsi membaca input dari pengguna.
+
+### int[][] matriks = new int[3][3]
+Digunakan untuk membuat array 2 dimensi (matriks) dengan ukuran 3 baris dan 3 kolom.
+
+### for(int i = 0; i < 3; i++)
+Perulangan untuk mengakses baris pada matriks.
+
+### for(int j = 0; j < 3; j++)
+Perulangan untuk mengakses kolom pada matriks.
+
+### matriks[i][j] = input.nextInt()
+Digunakan untuk mengisi nilai matriks berdasarkan input dari pengguna.
+
+### jumlah += matriks[i][j]
+Digunakan untuk menjumlahkan semua elemen matriks.
+
+### System.out.println
+Digunakan untuk menampilkan output ke layar.
+
+## Ringkasan
+
+Program ini dibuat menggunakan bahasa Java untuk mengimplementasikan konsep **Array 2 Dimensi (Matriks)**.  
+Program akan meminta pengguna memasukkan nilai ke dalam matriks berukuran **3x3**, kemudian program akan menampilkan matriks tersebut serta menghitung jumlah seluruh elemen matriks.
+
+## Dokumentasi Program
+
+Contoh saat program dijalankan:
+
+```
+PROGRAM ARRAY 2 DIMENSI (MATRIKS 3x3)
+
+Masukkan nilai [0][0] : 1
+Masukkan nilai [0][1] : 2
+Masukkan nilai [0][2] : 3
+Masukkan nilai [1][0] : 4
+Masukkan nilai [1][1] : 5
+Masukkan nilai [1][2] : 6
+Masukkan nilai [2][0] : 7
+Masukkan nilai [2][1] : 8
+Masukkan nilai [2][2] : 9
+
+Hasil Matriks:
+1 2 3
+4 5 6
+7 8 9
+
+Jumlah semua elemen matriks = 45
+```
+
+Program berhasil menampilkan matriks dan menghitung jumlah seluruh elemen matriks.
