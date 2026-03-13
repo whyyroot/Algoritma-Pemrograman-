@@ -2,9 +2,9 @@
 Penulis : Irvan Wahyudin
 
 ## Daftar isi
-1. [Program Code](program-code)
-2. [Ringkasan Program](ringkasan-program)
-3. [Dokumentasi Program](dokumentasi-program)
+1. [Program Code](#program-code)
+2. [Ringkasan Program](#ringkasan-program)
+3. [Dokumentasi Program](#dokumentasi-program)
 
 ## Program Code
 ```
