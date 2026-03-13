@@ -10,8 +10,6 @@ Program ini merupakan implementasi Array 2 Dimensi (Matriks) menggunakan bahasa 
 
 ## Bahasa
 Java
-# Program Array 2 Dimensi (Matriks)
-
 ## Program Code
 
 ```java
@@ -53,3 +51,11 @@ public class Array2Dimensi {
 
     }
 }
+```
+
+## Penjelasan Code
+
+import java.util.Scanner 
+Digunakan untuk membaca input dari keyboard menggunakan Scanner.
+public class Array2Dimensi
+Merupakan class utama dari program Java.
