@@ -53,24 +53,3 @@ public class Array2Dimensi {
 
     }
 }
-Penjelasan Code
-import java.util.Scanner;
-Digunakan untuk memanggil class Scanner agar program bisa membaca input dari keyboard.
-public class Array2Dimensi
-Merupakan class utama dari program Java.
-public static void main(String[] args)
-Merupakan method utama yang akan dijalankan pertama kali saat program dijalankan.
-Scanner input = new Scanner(System.in);
-Digunakan untuk membuat objek Scanner yang berfungsi membaca input dari pengguna.
-int[][] matriks = new int[3][3];
-Digunakan untuk membuat array 2 dimensi (matriks) dengan ukuran 3 baris dan 3 kolom.
-for(int i = 0; i < 3; i++)
-Perulangan untuk mengakses baris pada matriks.
-for(int j = 0; j < 3; j++)
-Perulangan untuk mengakses kolom pada matriks.
-matriks[i][j] = input.nextInt();
-Digunakan untuk mengisi nilai matriks berdasarkan input dari pengguna.
-jumlah += matriks[i][j];
-Digunakan untuk menjumlahkan semua elemen matriks.
-System.out.println
-Digunakan untuk menampilkan output ke layar.
