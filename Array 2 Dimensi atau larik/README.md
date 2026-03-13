@@ -1,7 +1,7 @@
 # PROGRAM ARRAY 2 DIMENSI/LARIK
 # Array 2 Dimensi Java
 
-penulis :Muhammad Hanif Ramadhani
+# penulis :Muhammad Hanif Ramadhani
 Program ini merupakan implementasi Array 2 Dimensi (Matriks) menggunakan bahasa Java.
 
 ## Fitur
