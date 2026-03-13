@@ -95,7 +95,7 @@ Program akan meminta pengguna memasukkan nilai ke dalam matriks berukuran **3x3*
 ## Dokumentasi Program
 
 Contoh saat program dijalankan:
-
+Array 2 Dimensi atau larik/Screenshot 2026-03-13 230649.png
 
 
 Program berhasil menampilkan matriks dan menghitung jumlah seluruh elemen matriks.
