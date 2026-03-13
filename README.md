@@ -4,7 +4,7 @@ Kami dari kelompok 8 ingin memberikan sedikit penjelasan program yang kami kerja
 Anggota :  
 - Irvan Wahyudin (312510359)
 - Andi Ramli Hidayat (312510385)
-- 
+- Muhammad Hanif Ramadhani (312510291)
 
 Kelas : I253D / Semester 2.  
 Mata Kuliah : Algoritma Pemrograman.  
