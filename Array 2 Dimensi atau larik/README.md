@@ -99,6 +99,6 @@ Contoh saat program dijalankan:
 
 Contoh saat program dijalankan:
 
-![Output Program](Array 2 Dimensi atau larik/Screenshot 2026-03-13 230649.png)
+![Output Program](hasil-program.png)
 
 Program berhasil menampilkan matriks dan menghitung jumlah seluruh elemen matriks.
