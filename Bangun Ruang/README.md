@@ -1,12 +1,21 @@
 # PROGRAM BANGUN RUANG
-Penulis : Irvan Wahyudin
+<p align="left" width="300%">
+        <a href="https://github.com/whyyroot">
+                <img src="https://img.shields.io/badge/github-Irvan_Wahyudin-blue?logo=github"/></a>
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/blob/main/Bangun%20Ruang/BangunRuang/src/main/java/com/mycompany/bangunruang/BangunRuang.java">
+                <img src="https://img.shields.io/badge/Unduh-Code_Program-blue?logo=abdownloadmanager"/></a>
+        <img src="https://img.shields.io/badge/Java-100%25-green"/>
+</p>  
+
+Penulis : Irvan Wahyudin  
+Program ini adalah untuk menghitung bangun ruang dengan bahasa java.
 
 ## Daftar isi
 1. [Program Code](#program-code)
 2. [Ringkasan Program](#ringkasan-program)
 3. [Dokumentasi Program](#dokumentasi-program)
 
-## Program Code
+## Program Code Java
 ```
 public class BangunRuang {
         public static void main(String[] args) {
@@ -122,4 +131,7 @@ System.out.printf("Luas Permukaan: %.2f\n", luas);
 
 ## Dokumentasi Program
 <img src="img/RuangKubus1.png" width="33%"> <img src="img/RuangKubus2.png" width="33%"> <img src="img/RuangKubus3.png" width="33%">
+
+<p align="center" width="300%"><a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_1D-8A2BE2"/></a> <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%202%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_2D-8A2BE2"/></a>
+</p>
 
