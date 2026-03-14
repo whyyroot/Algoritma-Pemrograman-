@@ -13,7 +13,8 @@ Program ini adalah untuk menghitung bangun ruang dengan bahasa java.
 ## Daftar isi
 1. [Program Code](#program-code)
 2. [Ringkasan Program](#ringkasan-program)
-3. [Dokumentasi Program](#dokumentasi-program)
+3. [Penjelasan Code](#penjelasan-code)
+4. [Dokumentasi Program](#dokumentasi-program)
 
 ## Program Code Java
 ```
