@@ -10,6 +10,12 @@
 
 Penulis : Andi Ramli Hidayat
 
+## Daftar isi
+1. [Program Code](#program-code)
+2. [Penjelasan Code](#penjelasan-code)
+3. [Ringkasan Program](#ringkasan-program)
+4. [Dokumentasi Program](#dokumentasi-program)
+
 <!-- content -->
 ## Program Code Java
 
