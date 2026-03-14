@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/Java-100%25-green"/>
 </p>  
 
-Kami dari kelompok 8 ingin memberikan sedikit penjelasan program yang kami kerjakan, adapun program yang kami kerjakan sudah ditentukan yaitu bangun ruang,array 1 dimensi/larik dan array 2 dimensi/larik. Untuk lebih jelas dalam programnya silahkan klik dibawah.
+Kami dari kelompok 8 ingin memberikan sedikit penjelasan program yang kami kerjakan, adapun program yang kami kerjakan sudah ditentukan yaitu bangun ruang,array 1 dimensi/larik dan array 2 dimensi/larik. Untuk lebih jelas dalam programnya silahkan klik ![dibawah](https://github.com/whyyroot/Algoritma-Pemrograman-#detail-program).
 
 Anggota :  
 - Irvan Wahyudin (312510359)
