@@ -13,6 +13,11 @@ Penulis : Andi Ramli Hidayat
 <!-- content -->
 ## Program Code Java
 
+## Penjelasan Code
+
+## Ringkasan Program
+
+## Dokumentasi Program
 
 <!--footer -->
 <p align="center" width="300%">
