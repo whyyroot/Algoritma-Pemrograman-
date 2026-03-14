@@ -132,6 +132,9 @@ System.out.printf("Luas Permukaan: %.2f\n", luas);
 ## Dokumentasi Program
 <img src="img/RuangKubus1.png" width="33%"> <img src="img/RuangKubus2.png" width="33%"> <img src="img/RuangKubus3.png" width="33%">
 
-<p align="center" width="300%"><a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_1D-8A2BE2"/></a> <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%202%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_2D-8A2BE2"/></a>
+<p align="center" width="300%">
+        GO TO PAGE<br>
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_1D-8A2BE2"/></a> 
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%202%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_2D-8A2BE2"/></a>
 </p>
 
