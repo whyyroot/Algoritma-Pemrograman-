@@ -1,7 +1,17 @@
+<!-- head -->
 # PROGRAM ARRAY 2 DIMENSI/LARIK
+<p align="left" width="300%">
+        <a href="https://github.com/muhammadhaniframadhani24-a11y">
+                <img src="https://img.shields.io/badge/github-Muhammad_Hanif-blue?logo=github"/></a>
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/blob/main/Array%202%20Dimensi%20atau%20larik/array2dimensi.java">
+                <img src="https://img.shields.io/badge/Unduh-Code_Program-blue?logo=abdownloadmanager"/></a>
+        <img src="https://img.shields.io/badge/Java-100%25-green"/>
+</p>  
+
 penulis : Muhammad Hanif Ramadhani  
 Program ini merupakan implementasi Array 2 Dimensi (Matriks) menggunakan bahasa Java.
 
+<!-- content -->
 ## Fitur
 - Input matriks 3x3
 - Menampilkan matriks
@@ -94,3 +104,12 @@ Contoh saat program dijalankan:
 ![Output Program](hasil-program.png)
 
 Program berhasil menampilkan matriks dan menghitung jumlah seluruh elemen matriks.
+
+<!-- footer -->
+<p align="center" width="300%">
+        GO TO PAGE<br>
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Bangun%20Ruang">
+              <img src="https://img.shields.io/badge/Program_Ruang_Bangun-8A2BE2"/></a> 
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik">
+              <img src="https://img.shields.io/badge/Program_Array_1D-8A2BE2"/></a>
+</p>
