@@ -1,4 +1,10 @@
 # Algoritma Pemrograman Kelompok 8
+<p align="left" width="300%">
+        <img src="http://img.shields.io/badge/progres-75%25-orange"/>
+        <img src="https://img.shields.io/badge/Unduh-Code_Program-blue?logo=abdownloadmanager"/>
+        <img src="https://img.shields.io/badge/Java-100%25-green"/>
+</p>  
+
 Kami dari kelompok 8 ingin memberikan sedikit penjelasan program yang kami kerjakan, adapun program yang kami kerjakan sudah ditentukan yaitu bangun ruang,array 1 dimensi/larik dan array 2 dimensi/larik. Untuk lebih jelas dalam programnya silahkan klik dibawah.
 
 Anggota :  
