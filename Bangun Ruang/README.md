@@ -1,3 +1,4 @@
+<!-- head -->
 # PROGRAM BANGUN RUANG
 <p align="left" width="300%">
         <a href="https://github.com/whyyroot">
@@ -12,10 +13,11 @@ Program ini adalah untuk menghitung bangun ruang dengan bahasa java.
 
 ## Daftar isi
 1. [Program Code](#program-code)
-2. [Ringkasan Program](#ringkasan-program)
-3. [Penjelasan Code](#penjelasan-code)
+2. [Penjelasan Code](#penjelasan-code)
+3. [Ringkasan Program](#ringkasan-program)
 4. [Dokumentasi Program](#dokumentasi-program)
 
+<!-- content -->
 ## Program Code Java
 ```
 public class BangunRuang {
@@ -133,6 +135,7 @@ System.out.printf("Luas Permukaan: %.2f\n", luas);
 ## Dokumentasi Program
 <img src="img/RuangKubus1.png" width="33%"> <img src="img/RuangKubus2.png" width="33%"> <img src="img/RuangKubus3.png" width="33%">
 
+<!-- footer -->
 <p align="center" width="300%">
         GO TO PAGE<br>
         <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/tree/main/Array%201%20Dimensi%20atau%20larik"><img src="https://img.shields.io/badge/Program_Array_1D-8A2BE2"/></a> 
