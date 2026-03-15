@@ -45,40 +45,48 @@ public class ArraySatuDimensi {
 ```
 ## Penjelasan Code
 <li>Deklarasi Array</li>
+
 ```
 // Deklarasi dan inisialisasi array nilai mahasiswa
         int[] nilai = {85, 90, 78, 92, 88};
 ```
+
  → Membuat array bertipe int dengan 5 elemen, mewakili nilai ujian mahasiswa informatika.
 <br>
  <li>Perulangan for untuk menampilkan </li>
+ 
  ```
  for (int i = 0; i < nilai.length; i++) {
             System.out.println("Mahasiswa ke-" + (i+1) + ": " + nilai[i]);
         }
  ```
+
  → Looping digunakan untuk menampilkan setiap nilai mahasiswa berdasarkan indeks array.
 
 <br>
  <li>Perulangan for untuk menampilkan </li>
+ 
 ```
  int total = 0;
         for (int i = 0; i < nilai.length; i++) {
             total += nilai[i];
         }
 ```
+
 → Menjumlahkan semua nilai mahasiswa.
 
 <br>
  <li>Menghitung Rata Rata</li>
+ 
 ```
 double rataRata = (double) total / nilai.length;
 ```
+
 → Total nilai dibagi jumlah elemen array, hasilnya disimpan dalam variabel rataRata.
 
 ## Dokumentasi Program
-<img src="img/1.png" width="40%"> 
-<img src="img/2.png" width="40%"> 
+<img src="img/1.png" width="60%"> 
+<img src="img/2.png" width="60%"> 
 <!--footer -->
 <p align="center" width="300%">
         GO TO PAGE<br>
