@@ -3,7 +3,7 @@
 <p align="left" width="300%">
         <a href="https://github.com/aramli">
                 <img src="https://img.shields.io/badge/github-Andi_Ramli-blue?logo=github"/></a>
-        <a href="">
+        <a href="https://github.com/whyyroot/Algoritma-Pemrograman-/blob/main/Array%201%20Dimensi%20atau%20larik/ArraySatuDimensi.java">
                 <img src="https://img.shields.io/badge/Unduh-Code_Program-blue?logo=abdownloadmanager"/></a>
         <img src="https://img.shields.io/badge/Java-100%25-green"/>
 </p>  
