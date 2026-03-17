@@ -1,6 +1,6 @@
 # Algoritma Pemrograman Kelompok 8
 <p align="left" width="300%">
-        <img src="http://img.shields.io/badge/progres-75%25-orange"/>
+        <img src="http://img.shields.io/badge/progres-100%25-green"/>
         <img src="https://img.shields.io/badge/Unduh-Code_Program-blue?logo=abdownloadmanager"/>
         <img src="https://img.shields.io/badge/Java-100%25-green"/>
 </p>  
